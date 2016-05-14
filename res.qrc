@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/song">
+        <file> Elmo_Ducks.mp3</file>
+        <file>gamebg.mp3</file>
+        <file>toc.wav.mp3</file>
+        <file>elmo_start.mp4</file>
+    </qresource>
+    <qresource prefix="/Elmo">
+        <file>elmo.png</file>
+        <file>cookiemster.png</file>
+        <file>bg.png</file>
+        <file>good1.png</file>
+        <file>end_bg.jpeg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
